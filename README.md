@@ -22,3 +22,13 @@ Doctor & Treatment Analytics – Top treatments, treatment costs, revenue distri
 Financial Insights – Billed vs. collected revenue, payment mode analysis, and receivables aging (0–30, 31–60, 61+ days)
 Patient Demographics – Distribution by age, gender, and insurance coverage
 Interactive Dashboarding – Slicers and filters for branch, doctor, treatment, date range, and payment status
+
+Screenshots
+Menu
+![Menu](https://github.com/roshanshelke7711/Hospital-Analytics-Dashboard/blob/main/menu.png)
+![overview](https://github.com/roshanshelke7711/Hospital-Analytics-Dashboard/blob/main/overview.png)
+![Appointment](https://github.com/roshanshelke7711/Hospital-Analytics-Dashboard/blob/main/appointments.png)
+![treatments](https://github.com/roshanshelke7711/Hospital-Analytics-Dashboard/blob/main/treatments.png)
+![billig](https://github.com/roshanshelke7711/Hospital-Analytics-Dashboard/blob/main/billig.png)
+![patients](https://github.com/roshanshelke7711/Hospital-Analytics-Dashboard/blob/main/patients.png)
+
